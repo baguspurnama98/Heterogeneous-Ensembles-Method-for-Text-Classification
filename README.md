@@ -1,4 +1,4 @@
-# Heterogeneous-Ensembles-Method-for-Text-Classification
+# Heterogeneous-Ensemble-Method-for-Text-Classification
 
 **Background:** Question-answer (QA) is a popular method to seek health-related information and biomedical data. Such questions can refer to more than one medical entity (multi-label) so determining the correct tags is not easy. The question classification (QC) mechanism in a QA system can narrow down the answers we are seeking. Objective: This study develops a multi-label classification using the heterogeneous ensembles method to improve accuracy in biomedical data with long text dimensions.
 
